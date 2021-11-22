@@ -1,0 +1,10 @@
+validateSeq(@param string) : สำหรับ validate ว่า DNA string มีองค์ประกอบอยู่ใน ATCG
+createSeq(@param number) : randomly generate DNA string ตามจำนวนที่เรากำหนดลงไป
+countNucFrequency(@param string) : นับ DNA label ATCG ว่ามีอย่างละกี่ตัว
+transcription(@param string) : เปลี่ยน T เป็น U
+compliment(@param string) : ทำ compliment ของ DNA string สายนั้น ๆ เช่น A คู่กับ G ฯลฯ
+reverse_compliment(@param string) : reverse complimented DNA string
+gc_content(@param string) : หา rate ของ G และ C ใน DNA string
+gc_content_subseq
+
+fstring

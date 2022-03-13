@@ -43,7 +43,7 @@ def transciption(seq):
     return seq.replace('T','U')
 
 def compliment(seq):
-    comp = ''.join([ DNA_PAIR[nuc] for nuc in seq])
+    comp = ''.join([ DNA_PAIR[nuc] for nuc in seq ])
     return comp
 
 def reverse(seq):
